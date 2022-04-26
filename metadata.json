@@ -1,0 +1,6 @@
+{
+  "name": "lightflix",
+  "identifier": "com.sky.app.lightflix",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
