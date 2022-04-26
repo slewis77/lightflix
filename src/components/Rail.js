@@ -154,7 +154,6 @@ export default class Rail extends Lightning.Component {
     if (this.index > 1) {
       space += this.index * (CARD_WIDTH * this.cardScale + CARD_MARGIN * 2)
     }
-    console.log(space, this.index, this.w)
     return space < this.w
   }
 }
